@@ -17,7 +17,7 @@
         <maven-gpg-plugin.version>1.5</maven-gpg-plugin.version>
         <maven-release-plugin.version>2.4.2</maven-release-plugin.version>
         <maven-source-plugin.version>2.2.1</maven-source-plugin.version>
-        <junit-jupiter-engine.version>5.1.0</junit-jupiter-engine.version>
+        <junit-jupiter-engine.version>5.7.0</junit-jupiter-engine.version>
     </properties>
 
     <name>${project.groupId}:${project.artifactId}</name>
